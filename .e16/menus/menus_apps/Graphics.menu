@@ -1,0 +1,4 @@
+"Graphics"
+"Color picker" "nl.hjdskes.gcolor3" exec "gcolor3"
+"GNU Image Manipulation Program" "/usr/share/icons/hicolor/48x48/apps/gimp.png" exec "gimp-2.10"
+"nufraw.desktop" "/usr/share/pixmaps/nufraw.png" exec "nufraw"

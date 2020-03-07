@@ -1,0 +1,14 @@
+1001 1
+14 999;  100  "SMALL""_MATCH";  480  "SMALL";  483 "DOX:*";1000
+14 999;  100  "SMALL""_MATCH";  480  "SMALL";  483 "The GIMP";1000
+14 999;  100  "SMALL""_MATCH";  480  "SMALL";  483 "*ICU*";1000
+14 999;  100  "SMALL""_MATCH";  480  "SMALL";  483 "*icq*";1000
+14 999;  100  "BORDERLESS""_MATCH";  480  "BORDERLESS";  483 "Blender";1000
+14 999;  100  "BORDERLESS""_MATCH";  480  "BORDERLESS";  483 "c0mm4nd3r";1000
+12 999;  100  "artwork/wait1.png""_ICLASS";  5  "artwork/wait1.png";1000;14 999;  100  "artwork/wait1.png""_MATCH";  490  "artwork/wait1.png""_ICLASS";  482 "XClock";1000
+14 999;  100  "SMALL""_MATCH";  480  "SMALL";  483 "*Settings";1000
+14 999;  100  "SMALL""_MATCH";  480  "SMALL";  483 "*Error";1000
+14 999;  100  "SMALL""_MATCH";  480  "SMALL";  483 "*error";1000
+14 999;  100  "SMALL""_MATCH";  480  "SMALL";  483 "About*";1000
+14 999;  100  "SMALL""_MATCH";  480  "SMALL";  483 "Remembered Application Attributes";1000
+14 999;  100  "SMALL""_MATCH";  480  "SMALL";  483 "*?";1000

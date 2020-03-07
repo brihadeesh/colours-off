@@ -1,0 +1,5 @@
+"peregrinus"
+"st" NULL exec "st"
+"termite" NULL exec "termite"
+"firefox" NULL exec "firefox"
+"ncmpcpp" NULL exec "st -e ncmpcpp"

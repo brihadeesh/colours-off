@@ -1,0 +1,7 @@
+"Utility"
+"About Xfce" "help-about" exec "xfce4-about"
+"compton" "/usr/share/icons/hicolor/48x48/apps/compton.png" exec "compton"
+"File Manager" "system-file-manager" exec "exo-open --launch FileManager"
+"Neovim" "/usr/share/pixmaps/nvim.png" exec "nvim"
+"Redshift" "redshift" exec "redshift-gtk"
+"Terminal Emulator" "utilities-terminal" exec "exo-open --launch TerminalEmulator"

@@ -1,0 +1,8 @@
+"Network"
+"Avahi SSH Server Browser" "network-wired" exec "/usr/bin/bssh"
+"Avahi VNC Server Browser" "network-wired" exec "/usr/bin/bvnc"
+"Firefox" "/usr/share/icons/hicolor/48x48/apps/firefox.png" exec "/usr/lib/firefox/firefox"
+"Mail Reader" "emblem-mail" exec "exo-open --launch MailReader"
+"Skype" "/usr/share/pixmaps/skypeforlinux.png" exec "/usr/bin/skypeforlinux"
+"Steam (Runtime)" "/usr/share/pixmaps/steam.png" exec "/usr/bin/steam-runtime"
+"Web Browser" "web-browser" exec "exo-open --launch WebBrowser"

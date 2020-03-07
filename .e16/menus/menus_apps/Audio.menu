@@ -1,0 +1,3 @@
+"Audio"
+"Helm" "/usr/share/icons/hicolor/48x48/apps/helm.png" exec "helm"
+"Spotify" "/usr/share/pixmaps/spotify-client.png" exec "spotify"
